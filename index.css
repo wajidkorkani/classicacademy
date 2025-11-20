@@ -1,0 +1,83 @@
+#carouselExampleInterval{
+    width: 80%;
+    margin: 0 auto;
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+h1{
+    text-align: center;
+}
+
+.courses{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.courses ul{
+    margin-left: 100px;
+}
+
+hr{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.contact{
+    margin-bottom: 100px;
+}
+input{
+    width: 400px;
+    height: 60px;
+    font-size: 30px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+
+.input{
+    width: 400px;
+    height: 60px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+footer{
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 20px;
+}
+
+.text{
+    border-right: 1px white solid;
+    width: 70%;
+    padding: 20px;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
